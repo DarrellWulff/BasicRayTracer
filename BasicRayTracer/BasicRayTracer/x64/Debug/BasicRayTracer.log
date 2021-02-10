@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Choco\Documents\CodeProjects\RTOW\BasicRayTracer\BasicRayTracer\BasicRayTracer\Main.cpp(143,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Choco\Documents\CodeProjects\RTOW\BasicRayTracer\BasicRayTracer\BasicRayTracer\Main.cpp(144,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Choco\Documents\CodeProjects\RTOW\BasicRayTracer\BasicRayTracer\BasicRayTracer\Main.cpp(144,71): warning C4305: 'argument': truncation from 'double' to 'float'
+  BasicRayTracer.vcxproj -> C:\Users\Choco\Documents\CodeProjects\RTOW\BasicRayTracer\BasicRayTracer\x64\Debug\BasicRayTracer.exe
